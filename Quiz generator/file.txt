@@ -1,0 +1,27 @@
+T
+try/catch blocks can be nested.
++ true
+.
+W
+ArithmeticException is a/an _____ exception. Fill in the blank.
++ unchecked
+.
+W
+What is the key word to define constants?
++ final//CS
+.
+M
+What is the keyword used to declare a class to be a subclass of another class?
+- implements
++ extends
+- subclass
+- interface
+.
+M
+Which of the following are keywords to specify access level?
++ public
++ protected
+- package
++ private
+- local
+.

@@ -1,0 +1,9 @@
+QUESTION 1
+try/catch blocks can be nested.
+You're answer to the question was true
+It is correct
+
+Number of questions: 5
+ Number of answers: 1
+ Number of correct answers: 0
+ Number of incorrect answers: 0
